@@ -4,8 +4,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{gdata}
-  s.version = "1.1.x5"
+  s.name = %q{gdata_19}
+  s.version = "1.1.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jeff Fisher"]
@@ -227,7 +227,7 @@ Gem::Specification.new do |s|
     "doc/fr_method_index.html",
     "doc/index.html",
     "doc/rdoc-style.css",
-    "gdata.gemspec",
+    "gdata_19.gemspec",
     "lib/gdata.rb",
     "lib/gdata/auth.rb",
     "lib/gdata/auth/authsub.rb",
