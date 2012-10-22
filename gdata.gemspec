@@ -227,7 +227,7 @@ Gem::Specification.new do |s|
     "doc/fr_method_index.html",
     "doc/index.html",
     "doc/rdoc-style.css",
-    "gdata_19.gemspec",
+    "gdata.gemspec",
     "lib/gdata.rb",
     "lib/gdata/auth.rb",
     "lib/gdata/auth/authsub.rb",
